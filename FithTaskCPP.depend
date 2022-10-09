@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609897368 source:c:\users\zmcdo\desktop\desktop pc\programming\cprojects\fithtaskcpp\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
+1609900968 source:c:\users\edin's pc\desktop\projects to sort\cprojects\fithtaskcpp\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
